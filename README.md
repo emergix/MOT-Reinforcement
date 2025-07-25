@@ -1,6 +1,9 @@
 
 # Connecting Martingale Optimal Transport, Reinforcement Learning, and Dynamic Hedging
 
+📄 [Download the full document](./pdf/MOT_Reinforcement.pdf)
+
+
 This document explores the deep connections between **Martingale Optimal Transport (MOT)**, **Reinforcement Learning (RL)** frameworks, and **Dynamic Hedging** strategies. It highlights how entropic regularization and actor-critic methods from RL naturally provide solutions to MOT problems, drawing connections to the **Schrödinger Bridge Problem (SBP)**.
 
 ## Key Components
@@ -37,4 +40,3 @@ This document explores the deep connections between **Martingale Optimal Transpo
 ## Conclusion
 This synthesis provides a robust, unified framework for tackling complex stochastic control and transport problems, with significant implications in finance and probabilistic modeling.
 
-📄 [Download the full document](MOT_Reinforcement.pdf)
